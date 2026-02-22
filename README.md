@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Benjamin Rogers</h1>
 <h3 align="center">A programmer writing modern C++ using modules.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ObjectOnlyProgramming](https://github.com/ObjectOnlyProgramming)
